@@ -25,8 +25,14 @@ Google Cloud Platform:
 
 Google Cloud Platform / Pub Sub:
 
-Google Cloud Platform / Pub Sub / Identified:
+Google Cloud Platform / Pub Sub / Provisioned:
   Out:
     - Queue / Remote
  
- 
+Amazon Web Services:
+
+Amazon Web Services / Sqs:
+
+Amazon Web Services / Sqs / Provisioned:
+  Out:
+    - Queue / Remote
