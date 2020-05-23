@@ -1,4 +1,5 @@
 Queue:
+
 Cache:
 In Memory:
 Local:
@@ -19,3 +20,13 @@ Queue / Local:
     - Local / Identified
 Queue / Remote:
     - Remote / Identified
+
+Google Cloud Platform:
+
+Google Cloud Platform / Pub Sub:
+
+Google Cloud Platform / Pub Sub / Identified:
+  Out:
+    - Queue / Remote
+ 
+ 
