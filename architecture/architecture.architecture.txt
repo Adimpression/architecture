@@ -1,3 +1,15 @@
-Is Architecture:
-  - Is Experimental Strings
-  - displayedhelloworld.displayedhelloworld / Is Displayed Hello World
+Queue:
+Cache:
+In Memory:
+Local:
+Remote:
+
+Queue / Provisioned:
+  Out:
+    - Queue / In Memory | Queue / Remote
+    
+Queue / Local:
+  Out:
+    - 
+Queue / Remote:
+
