@@ -36,3 +36,24 @@ Amazon Web Services / Sqs:
 Amazon Web Services / Sqs / Provisioned:
   Out:
     - Queue / Remote
+
+
+Micro Services:
+  Out:
+    - [ Micro Service / Identified ]
+
+Micro Service:
+
+Micro Service / Identified:
+  Out:
+    - Id
+    
+Micro Service / Communication:
+  Out:
+    - Shared Communication Interface String
+    - Shared Protocol String
+    
+Id:
+  Out:
+    - Value String
+
