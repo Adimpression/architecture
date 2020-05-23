@@ -2,7 +2,13 @@ Queue:
 Cache:
 In Memory:
 Local:
+Local / Identified:
+  Out:
+    - Reference String
 Remote:
+Remote / Identified:
+  Out:
+    - Ip String
 
 Queue / Provisioned:
   Out:
@@ -10,6 +16,6 @@ Queue / Provisioned:
     
 Queue / Local:
   Out:
-    - 
+    - Local / Identified
 Queue / Remote:
-
+    - Remote / Identified
