@@ -12,7 +12,7 @@ Remote / Identified:
 
 Queue / Provisioned:
   Out:
-    - Queue / In Memory | Queue / Remote
+    - Queue / Local | Queue / Remote
     
 Queue / Local:
   Out:
