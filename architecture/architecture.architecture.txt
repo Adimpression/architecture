@@ -52,8 +52,28 @@ Micro Service / Communication:
   Out:
     - Shared Communication Interface String
     - Shared Protocol String
-    
+
+Compute:
+
+Compute / Bare Metal:
+
+Compute / Docker:
+
+Compute / Virtual Machine:
+
+Docker:
+
+Bare Metal:
+
+Virtual Machine:
+
 Id:
   Out:
     - Value String
+
+Kubernetes:
+
+Kubernetes / Pod:
+
+Kubernetes / Pod / Container:
 
