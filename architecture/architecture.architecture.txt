@@ -77,3 +77,18 @@ Kubernetes / Pod:
 
 Kubernetes / Pod / Container:
 
+Rdbms:
+
+Object Storage:
+
+Key Value Store:
+
+Nosql:
+
+Nosql / Document:
+
+Nosql / Columnar:
+
+Nosql / Key Value:
+
+Nosql / Graph:
