@@ -135,3 +135,9 @@ Solution Considerations:
     - Playback Boolean
     - Local Runtime Logic Boolean
     - Remote Runtime Logic Boolean
+    - Programming Language Dependent Serialization Boolean
+    - Tool Dependent Identifiers Boolean
+    - Columnar Crud Boolean
+    - Row Crud Boolean
+    - Immutable Data Join Boolean
+    - Mutable Data Join Boolean
