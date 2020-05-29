@@ -92,3 +92,33 @@ Nosql / Columnar:
 Nosql / Key Value:
 
 Nosql / Graph:
+
+Solution Considerations:
+  In:
+  Out:
+    - Local Memory Boolean
+    - Remote Memory Boolean
+    - Local Queue Boolean
+    - Remote Queue Boolean
+    - Local Compute Boolean
+    - Remote Compute Boolean
+    - Local Cache Boolean
+    - Remote Cache Boolean
+    - Local Storage Boolean
+    - Remote Storage Boolean
+    - Rdbms Boolean
+    - Nosql Boolean
+    - Three Tier Boolean
+    - Cqrs Boolean
+    - Micro Services Boolean
+    - Bpmn Boolean
+    - Rules Engine Boolean
+    - Pure Rest Api Boolean
+    - Rpc Boolean
+    - Graphql Boolean
+    - Local Singleton Boolean
+    - Remote Singleton Boolean
+    - Local Sesson Boolean
+    - Remote Sesson Boolean
+    - Local Controller Boolean
+    - Remote Controller Boolean
