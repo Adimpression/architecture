@@ -108,6 +108,8 @@ Solution Considerations:
     - Remote Storage Boolean
     - Rdbms Boolean
     - Nosql Boolean
+    - Object Storage Boolean
+    - Distributed File System Boolean
     - Three Tier Boolean
     - Cqrs Boolean
     - Micro Services Boolean
@@ -122,3 +124,14 @@ Solution Considerations:
     - Remote Sesson Boolean
     - Local Controller Boolean
     - Remote Controller Boolean
+    - Stream Processing Boolean
+    - Batch Processing Boolean
+    - Stream And Batch Processing Boolean
+    - Rdbms Transactional Boolean
+    - Distributed Transactional Boolean
+    - Idempotent Boolean
+    - Immutable Boolean
+    - Versioned Boolean
+    - Playback Boolean
+    - Local Runtime Logic Boolean
+    - Remote Runtime Logic Boolean
