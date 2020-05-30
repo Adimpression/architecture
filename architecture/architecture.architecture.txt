@@ -150,3 +150,6 @@ Solution Considerations:
     - Distributed Set Data Boolean
     - Local Set Data Boolean
     - Remote Set Data Boolean
+    - Redundacy Boolean
+    - Immutable Services Boolean
+    - Point In Time Recovery Boolean
