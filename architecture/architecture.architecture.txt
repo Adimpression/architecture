@@ -141,3 +141,12 @@ Solution Considerations:
     - Row Crud Boolean
     - Immutable Data Join Boolean
     - Mutable Data Join Boolean
+    - Ordered Data Boolea n
+    - Distributed Data Ordered Boolean
+    - Stored Ordered Data Boolean
+    - Stored Bucketed Data
+    - Additive Data Boolean
+    - Set Data Boolean
+    - Distributed Set Data Boolean
+    - Local Set Data Boolean
+    - Remote Set Data Boolean
